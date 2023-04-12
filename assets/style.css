@@ -134,6 +134,17 @@ span:hover {
     transition: bottom 1s, left 1s;
 }
 
+@media screen and (max-width:600px) {
+    .images {
+        width: 22%;
+        height: 38%;
+        position: absolute; 
+    }
+
+}
+    
+
+
 .images:hover .rank {
     bottom: 40px
 }
