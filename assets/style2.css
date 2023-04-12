@@ -1,0 +1,14 @@
+body {
+    background-image: url(imagetemplate.jng);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(231, 68, 18);
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+
